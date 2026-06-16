@@ -3875,7 +3875,7 @@
 			)
 		)
 	)
-	(global_label "D32"
+	(global_label "D2"
 		(shape input)
 		(at 125.73 95.25 180)
 		(fields_autoplaced yes)
@@ -3887,7 +3887,7 @@
 		)
 		(uuid "0672f426-44e9-46ab-979a-5ed32db2d92e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.0558 95.25 0)
+			(at 120.2653 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +4029,7 @@
 			)
 		)
 	)
-	(global_label "D15"
+	(global_label "D4"
 		(shape input)
 		(at 135.89 142.24 180)
 		(fields_autoplaced yes)
@@ -4041,7 +4041,7 @@
 		)
 		(uuid "405f9139-b996-42e2-b16b-d6de341e11ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.2158 142.24 0)
+			(at 130.4253 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4117,7 +4117,7 @@
 			)
 		)
 	)
-	(global_label "VP"
+	(global_label "D21"
 		(shape input)
 		(at 252.73 118.11 0)
 		(fields_autoplaced yes)
@@ -4129,7 +4129,7 @@
 		)
 		(uuid "547d4918-157c-420f-8f67-cdccd48f7696")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.0738 118.11 0)
+			(at 259.4042 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4491,7 +4491,7 @@
 			)
 		)
 	)
-	(global_label "D19"
+	(global_label "D15"
 		(shape input)
 		(at 165.1 142.24 180)
 		(fields_autoplaced yes)
@@ -4513,7 +4513,7 @@
 			)
 		)
 	)
-	(global_label "D22"
+	(global_label "D18"
 		(shape input)
 		(at 124.46 115.57 180)
 		(fields_autoplaced yes)
@@ -6183,7 +6183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:BORNERA2"
+		(property "Footprint" "EESTN5:BORNERA2_AZUL"
 			(at 193.04 39.37 0)
 			(effects
 				(font
@@ -6667,7 +6667,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:BORNERA2"
+		(property "Footprint" "EESTN5:BORNERA2_AZUL"
 			(at 224.79 39.37 0)
 			(effects
 				(font
@@ -8394,7 +8394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EESTN5:BORNERA2"
+		(property "Footprint" "EESTN5:BORNERA2_AZUL"
 			(at 85.09 40.64 0)
 			(effects
 				(font
